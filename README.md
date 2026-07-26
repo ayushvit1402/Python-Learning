@@ -11,3 +11,7 @@ Welcome to my Python learning journey.
 -Build Projects
 -Practice DSA 
 -Participate in Hackathon
+
+## Progress 
+-GitHub Profile Created 
+-Python Learning Repository Created
